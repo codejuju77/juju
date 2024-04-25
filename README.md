@@ -8,5 +8,7 @@ These are some things I like to do
 *Sing
 *Sew
 
-Here's a picture of some pants I sewed:
-![pants](path to the image)
+Here's a picture of some pretty flowers:
+![flowers](62E6DAE3-04F6-488C-AF87-EDA712EF7719.jpeg)
+
+If you want to know more check out my [instagram account](https://www.instagram.com/gogojuju_/)
